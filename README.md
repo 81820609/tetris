@@ -17,15 +17,15 @@ If you want to change music, put the music file into the folder-'music' and open
 
 In the reference source code, the fall of blocks is completely random. In order to more near the modern Tetris game, I make some change in the game.
 
-1.Change the fall of blocks to one set with sevent different shapes.
+1. Change the fall of blocks to one set with sevent different shapes.
 
-2.Add the predicted fallen location.
+2. Add the predicted fallen location.
 
-3.The next shapes is up to five.
+3. The next shapes is up to five.
 
-4.Add a new ability, 'Hold'.
+4. Add a new ability, 'Hold'.
 
-5.Add the music. 'A'
+5. Add the music. 'A'
 
 # How to play
 
@@ -39,10 +39,10 @@ Press 'c' to hold the current block.
 
 # Next updates
 
-1.Add the rule Super Rotation System 'SRS' to the game.
+1. Add the rule Super Rotation System 'SRS' to the game.
 
-2.Make the AI(neural network) to play the Tettris.
+2. Make the AI(neural network) to play the Tettris.
 
-3.Add the human vs human, human vs computer and computer vs computer mode.
+3. Add the human vs human, human vs computer and computer vs computer mode.
 
 

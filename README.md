@@ -4,14 +4,14 @@ Use pygame in python to create a tetris game
 
 This game is start with the reference 'Pygame Tutorial - Creating Tetris' on youtube.
 
-The reference sourcecode:https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
+The reference source code:https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
 
 
 # How to run
 
 If you have python, you can just open 'game.py' to play. If you don't have python, open the 'game.exe'.
 
-If you want to change music, put the music file into the file'music' and open the 'game.py' with editor then change the 'file_name' in line13.
+If you want to change music, put the music file into the folder-'music' and open the 'game.py' with editor then change the 'file_name' in line13.
 
 # What differeces
 

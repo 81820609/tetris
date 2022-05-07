@@ -13,13 +13,13 @@ https://user-images.githubusercontent.com/70815842/167260045-bd46aa85-63e1-4f1d-
 
 
 
-# How to run
+## How to run
 
 If you have python, you can just open 'game.py' to play. If you don't have python, open the 'game.exe'.
 
 If you want to change music, put the music file into the folder-'music' and open the 'game.py' with editor then change the 'file_name' in line13.
 
-# What differeces
+## What differeces
 
 In order to more near the modern Tetris games, I make some changes in the game.
 
@@ -33,7 +33,7 @@ In order to more near the modern Tetris games, I make some changes in the game.
 
 5. Add the music. 'A'
 
-# How to play
+## How to play
 
 Press 'down', 'left', 'right, to move the block.
 
@@ -43,7 +43,7 @@ Press 'up' and 'z' to make block rotate(clockwise, counterclockwise)
 
 Press 'c' to hold the current block.
 
-# Next updates
+## Next updates
 
 1. Add the rule Super Rotation System 'SRS' to the game.
 

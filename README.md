@@ -23,7 +23,7 @@ Add the predicted fallen location.
 
 The next shapes is up to five.
 
-Add the new system, 'Hold'.
+Add a new ability, 'Hold'.
 
 Add the music. 'A'
 

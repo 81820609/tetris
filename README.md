@@ -2,9 +2,9 @@
 
 Use pygame in python to create a tetris game
 
-This game is inspried by the reference 'Pygame Tutorial - Creating Tetris' on youtube.
+This game is inspried by the reference ['Pygame Tutorial - Creating Tetris'](https://www.youtube.com/watch?v=uoR4ilCWwKA) on youtube.
 
-The reference source code:https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
+The reference [source code](https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/)
 
 
 

@@ -2,7 +2,7 @@
 
 Use pygame in python to create a tetris game
 
-This game is start with the reference 'Pygame Tutorial - Creating Tetris' on youtube.
+This game is inspried by the reference 'Pygame Tutorial - Creating Tetris' on youtube.
 
 The reference source code:https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
 
@@ -15,7 +15,7 @@ If you want to change music, put the music file into the folder-'music' and open
 
 # What differeces
 
-In the reference source code, the fall of blocks is completely random. In order to more near the modern Tetris game, I make some change in the game.
+In order to more near the modern Tetris games, I make some changes in the game.
 
 1. Change the fall of blocks to one set with sevent different shapes.
 

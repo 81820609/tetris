@@ -6,7 +6,7 @@ This game is inspried by the reference 'Pygame Tutorial - Creating Tetris' on yo
 
 The reference source code:https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-1/
 
-[![IMAGE ALT TEXT](https://youtu.be/otGCAHInqMg/0.jpg)](https://youtu.be/otGCAHInqMg "T")
+[![IMAGE ALT TEXT](https://youtu.be/otGCAHInqMg/0.jpg)](https://youtu.be/otGCAHInqMg "Tetris")
 
 
 # How to run
